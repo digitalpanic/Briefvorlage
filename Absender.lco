@@ -1,0 +1,9 @@
+\ProvidesFile{sender.lco}[2017/11/01 Custom Sender Information (Jan Mattfeld)]
+%
+\newcommand{\mFirstname}{Matthias}
+\newcommand{\mLastname}{K\"uhn}
+\newcommand{\mStreet}{Elbestr.~9\,a}
+\newcommand{\mPostalcode}{84036}
+\newcommand{\mCity}{Landshut}
+\newcommand{\mPhone}{+49~176~24438981}
+\newcommand{\mEmail}{matthiaskuehn@posteo.de}
